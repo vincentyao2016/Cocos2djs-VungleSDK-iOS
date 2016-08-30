@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/vincent.yao/Documents/Cocos2d-x/cocos2d-x-3.12/projectName/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h
